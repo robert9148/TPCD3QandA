@@ -1,8 +1,10 @@
 ---
-description: '若您有原網路市民的身份，請在申請臺北卡時，選擇[從網路市民轉移]，如此才能得到您原位於網路市民的資料。'
+description: '若您有原網路市民的身份，可在申請臺北卡時，選擇[從網路市民轉移]，如此才能得到您原位於網路市民的資料。也可以在申請臺北卡之後，將網路市民帳號取回。'
 ---
 
 # 網路市民移轉至臺北卡3.0
+
+## 申請臺北卡會員時取得網路市民資料
 
 ### 1. 請按\[申請臺北卡\]
 
@@ -31,4 +33,28 @@ description: '若您有原網路市民的身份，請在申請臺北卡時，選
 ### 7.註冊完成，您可以在此繼續進行金質會員認證，或按否自動登入臺北卡網站。而您原本於網路市民的資料將與您臺北卡的資料綁定在一起。
 
 ![](.gitbook/assets/jin-zhi-hui-yuan-ren-zheng%20%281%29.png)
+
+##  既有會員取得網路市民資料
+
+### 1.點擊取得網路市民按鈕
+
+![](.gitbook/assets/an-niu.png)
+
+### 2.網路市民會員登入
+
+![](.gitbook/assets/ren-zheng.png)
+
+### 3.登入網路市民後，請在此頁面按\[允許\]，以同意臺北卡3.0取得您網路市民的資料。
+
+![](.gitbook/assets/wang-lu-shi-min-shou-quan-shuo-ming.png)
+
+![](.gitbook/assets/wang-lu-shi-min-shou-quan-shuo-ming-confirm%20%281%29.png)
+
+###  4.取得網路市民資料成功
+
+![](.gitbook/assets/cheng-gong.png)
+
+###  5.臺北卡會員中心畫面
+
+![](.gitbook/assets/tpcd-cheng-gong.png)
 
