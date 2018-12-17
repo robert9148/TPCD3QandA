@@ -1,14 +1,14 @@
 # 臺北卡3.0一般會員申請步驟
 
-## 臺北卡3.0一般會員申請步驟 {#bei-ka-3-0-yi-ban-shen-bu}
+## 臺北卡3.0一般會員申請步驟 <a id="bei-ka-3-0-yi-ban-shen-bu"></a>
 
-### 1. 在電腦上打開瀏覽器，連上臺北卡網站\[https://id.taipei/tpcd\]，滑鼠點擊桃紅色按鈕\[申請臺北卡\] {#1-zai-shang-da-qi-shang-bei-ka-zhan-httpsidtaipeitpcd-hua-shu-tao-se-an-shen-bei-ka}
+### 1. 在電腦上打開瀏覽器，連上臺北卡網站\[https://id.taipei/tpcd\]，滑鼠點擊桃紅色按鈕\[申請臺北卡\] <a id="1-zai-shang-da-qi-shang-bei-ka-zhan-httpsidtaipeitpcd-hua-shu-tao-se-an-shen-bei-ka"></a>
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAqos0JTqq2LFNwXzku%2F-LAqovmMw_bcb_h54pqg%2F-LAqpzGz2lHmt5UNvBR0%2F2018-04-23_145107.png?alt=media&token=c1714621-c0b7-4b6f-8edc-e0fb432a685e)
 
 ​
 
-### 2. 點擊\[一般會員註冊\]選擇成為一般會員 {#2-yi-ban-cheng-yi-ban}
+### 2. 點擊\[一般會員註冊\]選擇成為一般會員 <a id="2-yi-ban-cheng-yi-ban"></a>
 
 一般會員與金質會員有何不同 ? 請參考
 
