@@ -13,4 +13,5 @@
 * [臺北卡3.0會員服務綁定方式與步驟](bei-ka-fu-ding.md)
 * [如何綁定和解除悠遊卡](ru-he-ding-he-jie-chu-you-ka.md)
 * [如何隱藏行動臺北卡App指定卡證服務](ru-he-cang-hang-bei-ka-app-zhi-ding-ka-fu.md)
+* [市民e點通申請臺北卡金質會員驗證步驟](shi-minetong-shen-bei-ka-jin-bu.md)
 
