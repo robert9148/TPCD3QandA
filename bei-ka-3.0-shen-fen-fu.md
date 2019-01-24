@@ -1,10 +1,10 @@
 ---
-description: 透過App的進行臺北卡會員身分的驗證
+description: 透過App的進行台北卡會員身分的驗證
 ---
 
-# 臺北卡3.0會員身份驗證方式及步驟
+# 台北卡3.0會員身份驗證方式及步驟
 
-## 1.登入會員端行動臺北卡App
+## 1.登入會員端行動台北卡App
 
 輸入手機號碼/電子郵件/實名帳號，並輸入密碼後點擊『登入』按鈕。
 
@@ -18,7 +18,7 @@ description: 透過App的進行臺北卡會員身分的驗證
 
 ## 3.驗證App掃會員App QR Code驗證會員身分
 
-使用臺北卡QRCode驗證App 掃描會員App顯示的QR Code
+使用台北卡QRCode驗證App 掃描會員App顯示的QR Code
 
 ![&#x81FA;&#x5317;&#x5361;QR Code&#x9A57;&#x8B49;](.gitbook/assets/screenshot_2018-06-28-20-09-15-387_gov.taipei.card.qrauth.jrsys.png)
 

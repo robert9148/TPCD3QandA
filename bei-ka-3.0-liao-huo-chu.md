@@ -1,6 +1,6 @@
-# 臺北卡3.0會員修改個人資料
+# 台北卡3.0會員修改個人資料
 
-## 請連結到臺北卡3.0網站 [https://id.taipei/tpcd/](https://id.taipei/tpcd/)
+## 請連結到台北卡3.0網站 [https://id.taipei/tpcd/](https://id.taipei/tpcd/)
 
 ![&#x4FEE;&#x6539;&#x500B;&#x4EBA;&#x8CC7;&#x6599;](.gitbook/assets/2018-04-26_144118.png)
 
@@ -88,7 +88,7 @@
 
 ### 與社群網做連結
 
-您可以將您的臺北卡帳號與FaceBook，Google 或MSN帳號做連結。
+您可以將您的台北卡帳號與FaceBook，Google 或MSN帳號做連結。
 
 ![&#x8207;&#x793E;&#x7FA4;&#x7DB2;&#x7AD9;&#x9023;&#x7D50;](.gitbook/assets/2018-04-26_153534.png)
 

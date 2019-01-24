@@ -1,8 +1,8 @@
-# 臺北卡3.0一般會員申請步驟
+# 台北卡3.0一般會員申請步驟
 
-## 臺北卡3.0一般會員申請步驟 <a id="bei-ka-3-0-yi-ban-shen-bu"></a>
+## 台北卡3.0一般會員申請步驟 <a id="bei-ka-3-0-yi-ban-shen-bu"></a>
 
-### 1. 在電腦上打開瀏覽器，連上臺北卡網站\[https://id.taipei/tpcd\]，滑鼠點擊桃紅色按鈕\[申請臺北卡\] <a id="1-zai-shang-da-qi-shang-bei-ka-zhan-httpsidtaipeitpcd-hua-shu-tao-se-an-shen-bei-ka"></a>
+### 1. 在電腦上打開瀏覽器，連上台北卡網站\[https://id.taipei/tpcd\]，滑鼠點擊桃紅色按鈕\[申請台北卡\] <a id="1-zai-shang-da-qi-shang-bei-ka-zhan-httpsidtaipeitpcd-hua-shu-tao-se-an-shen-bei-ka"></a>
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAqos0JTqq2LFNwXzku%2F-LAqovmMw_bcb_h54pqg%2F-LAqpzGz2lHmt5UNvBR0%2F2018-04-23_145107.png?alt=media&token=c1714621-c0b7-4b6f-8edc-e0fb432a685e)
 
@@ -30,7 +30,7 @@
 
 ![&#x624B;&#x6A5F;&#x6536;&#x5230;&#x7C21;&#x8A0A;&#x8A8D;&#x8B49;&#x78BC;](.gitbook/assets/screenshot_2018-04-23-15-45-11-03.png)
 
-### 6.在臺北卡網站上，輸入手機簡訊裡的驗證碼後，請勾選\[我不是機器人\]，再按灰色鍵下一步。
+### 6.在台北卡網站上，輸入手機簡訊裡的驗證碼後，請勾選\[我不是機器人\]，再按灰色鍵下一步。
 
 ![&#x624B;&#x6A5F;&#x8A3B;&#x518A;&#x8A8D;&#x8B49;&#x9801;](.gitbook/assets/2018-04-23_163913.png)
 
@@ -46,7 +46,7 @@
 
 ![&#x5C0E;&#x5165;&#x91D1;&#x8CEA;&#x6703;&#x54E1;&#x8A8D;&#x8B49;](.gitbook/assets/jin-zhi-hui-yuan-ren-zheng.png)
 
-### 10.若您上一步選則\[否\]，則您將被導入臺北卡網站如下圖
+### 10.若您上一步選則\[否\]，則您將被導入台北卡網站如下圖
 
 ![](.gitbook/assets/2018-04-26_103448%20%281%29.png)
 

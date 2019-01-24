@@ -1,8 +1,8 @@
-# 臺北卡3.0金質會員申請步驟
+# 台北卡3.0金質會員申請步驟
 
-## 臺北卡3.0一般會員申請步驟 <a id="bei-ka-3-0-yi-ban-shen-bu"></a>
+## 台北卡3.0一般會員申請步驟 <a id="bei-ka-3-0-yi-ban-shen-bu"></a>
 
-### 1. 在電腦上打開瀏覽器，連上臺北卡網站\[https://id.taipei/tpcd\]，滑鼠點擊桃紅色按鈕\[申請臺北卡\] <a id="1-zai-shang-da-qi-shang-bei-ka-zhan-httpsidtaipeitpcd-hua-shu-tao-se-an-shen-bei-ka"></a>
+### 1. 在電腦上打開瀏覽器，連上台北卡網站\[https://id.taipei/tpcd\]，滑鼠點擊桃紅色按鈕\[申請台北卡\] <a id="1-zai-shang-da-qi-shang-bei-ka-zhan-httpsidtaipeitpcd-hua-shu-tao-se-an-shen-bei-ka"></a>
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAqos0JTqq2LFNwXzku%2F-LAqovmMw_bcb_h54pqg%2F-LAqpzGz2lHmt5UNvBR0%2F2018-04-23_145107.png?alt=media&token=c1714621-c0b7-4b6f-8edc-e0fb432a685e)
 
@@ -38,7 +38,7 @@
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAqos0JTqq2LFNwXzku%2F-LAvu3mlh889P11SWMeE%2F-LAwFa25D_E74JqTT7fk%2F2018-04-23_155640.png?alt=media&token=736a8411-642d-4a0c-8ccb-ec83fa5e449e)
 
-### 9.註冊完成後您可以按\[是\]在此繼續進行金質會員認證，或\[否\]直接進入到臺北卡網站。在此請選擇\[是\]以繼續進行金質會員認證。 <a id="9-wan-cheng-nin-ke-yi-an-shi-zai-ci-hang-jin-huo-fou-zhi-jie-ru-dao-bei-ka-zhan"></a>
+### 9.註冊完成後您可以按\[是\]在此繼續進行金質會員認證，或\[否\]直接進入到台北卡網站。在此請選擇\[是\]以繼續進行金質會員認證。 <a id="9-wan-cheng-nin-ke-yi-an-shi-zai-ci-hang-jin-huo-fou-zhi-jie-ru-dao-bei-ka-zhan"></a>
 
 ![](.gitbook/assets/2018-04-26_101016%20%281%29.png)
 
@@ -96,11 +96,11 @@
 
 ![](.gitbook/assets/2018-04-26_103352.png)
 
-### 23.實名認證成功後，您會得到一組帳號，密碼仍是您原來設的密碼。請牢記您的帳號。您可以在此用手機拍QR Code以下載行動臺北卡APP，或按橘色鍵\[登入臺北卡3.0網站\]。
+### 23.實名認證成功後，您會得到一組帳號，密碼仍是您原來設的密碼。請牢記您的帳號。您可以在此用手機拍QR Code以下載行動臺北卡APP，或按橘色鍵\[登入台北卡3.0網站\]。
 
 ![](.gitbook/assets/2018-04-27_160008.png)
 
-### 24.登入臺北卡後，左上角的狀態會改成\[已實名\]，曾經在台北市各局處申請過的實名卡證服務則會列在右邊頁面。
+### 24.登入台北卡後，左上角的狀態會改成\[金質會員\]，曾經在台北市各局處申請過的實名卡證服務則會列在右邊頁面。
 
 ![](.gitbook/assets/2018-04-27_161133%20%281%29.png)
 
