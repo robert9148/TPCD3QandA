@@ -5,7 +5,7 @@
 * [台北卡3.0一般會員申請步驟](bei-ka-3.0-yi-ban-shen-bu.md)
 * [台北卡3.0金質會員申請步驟](bei-ka-3.0-jin-shen-bu.md)
 * [一般會員升級金質會員](yi-ban-sheng-jin.md)
-* [台北卡3.0群信驗證](bei-ka-3.0-qun-xin.md)
+* [台北卡3.0群信驗證\(暫停開放\)](bei-ka-3.0-qun-xin.md)
 * [網路市民移轉至台北卡3.0](untitled.md)
 * [忘記密碼怎麼辦](wang-mi.md)
 * [台北卡3.0會員修改個人資料](bei-ka-3.0-liao-huo-chu.md)
