@@ -12,11 +12,11 @@
 
 一般會員與金質會員有何不同 ? 請參考
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/image%20%284%29.png)
 
 ### 3.一般會員註冊頁面，請在此詳閱個資使用相關內容，打勾後按\[下一步\]
 
-![&#x500B;&#x8CC7;&#x4F7F;&#x7528;&#x8AAA;&#x660E;](.gitbook/assets/image.png)
+![&#x500B;&#x8CC7;&#x4F7F;&#x7528;&#x8AAA;&#x660E;](.gitbook/assets/image%20%283%29.png)
 
 
 
