@@ -8,37 +8,59 @@ description: 台北卡3.0一般會員升級金質會員步驟，有下列幾種�
 
 ###  step1 使用者透過線上認證\(手機帳號認證、電子郵件認證\)或經由手機安裝\[行動台北卡\]應用程式註冊成為一般會員。
 
-###  step2 使用者以一般會員身分登入系統，在個人資料維護功能裡，點擊 \[金質會員認證\] ，透過 自然人憑證認證成功來升級成金質會員。
+###  step2 使用者以一般會員身分登入系統，在個人資料維護功能裡，點擊 \[金質會員認證\] ，透過 自然人憑證認證升級成金質會員。
 
 ####  1.進行金質會員認證
 
-![](.gitbook/assets/yi-ban-hui-yuan-11.png)
+![](.gitbook/assets/001.png)
 
-#### 2.下載安控元件
+#### 2.選擇驗證方式
 
-![](.gitbook/assets/xia-zai-an-kong-yuan-jian%20%281%29.png)
+![&#x9078;&#x64C7;&#x81EA;&#x7136;&#x4EBA;&#x6191;&#x8B49;](.gitbook/assets/002.png)
 
-####  3.安裝安控元件 
+* 點選\[手機驗證\]會彈出說明請使用\[行動台北卡\]APP進行電信驗證
+* 點選\[線上轉成金質會員\]會開啟\[臺北市民E點通\]網站中\[臺北卡金質會員驗證申請\]的網頁
 
-![&#x9EDE;&#x64CA;&#x5B89;&#x88DD;](.gitbook/assets/an-zhuang-an-kong-yuan-jian%20%281%29.png)
+#### 3.下載安控元件
+
+![&#x4E0B;&#x8F09;&#x5B89;&#x63A7;&#x5143;&#x4EF6;](.gitbook/assets/003.png)
+
+####  4.安裝安控元件 
+
+![&#x9EDE;&#x9078;&#x5DE6;&#x4E0B;&#x89D2;&#x7684;&#x7A0B;&#x5F0F;&#x958B;&#x555F;/&#x6216;&#x5230;&#x4E0B;&#x8F09;&#x4F4D;&#x7F6E;&#x9032;&#x884C;&#x5B89;&#x88DD;](.gitbook/assets/004.png)
 
 #### 點擊\[執行\]按鈕
 
-![&#x57F7;&#x884C;&#x5B89;&#x88DD;](.gitbook/assets/an-zhuang-an-kong-yuan-jian-confirm.png)
+![](.gitbook/assets/005.png)
 
-![&#x5B8C;&#x6210;&#x5B89;&#x88DD;](.gitbook/assets/an-zhuang-an-kong-yuan-jian-confirmok%20%281%29.png)
+![](.gitbook/assets/006.png)
 
-####  4.執行安控元件
+![](.gitbook/assets/007.png)
 
-####  5.輸入身分證字號
+※點選下一步或我接受，完成安裝，並啟動程式
 
-####  6.輸入密碼\(長度只能6到8碼\)
+#### 6.安控元件安裝完成，請重新啟動瀏覽器
 
-####  7.成功升級為金質會員
+![](.gitbook/assets/008.png)
 
-![&#x5347;&#x7D1A;&#x70BA;&#x91D1;&#x8CEA;&#x6703;&#x54E1;](.gitbook/assets/result.png)
+####  7.執行安控元件
 
+![](.gitbook/assets/010.png)
 
+####  8.輸入身分證字號
+
+![](.gitbook/assets/011.png)
+
+####  9.輸入自然人憑證密碼\(長度為6到8碼\)
+
+![&#x8ACB;&#x8F38;&#x5165;&#x81EA;&#x7136;&#x4EBA;&#x6191;&#x8B49;&#x5BC6;&#x78BC;](.gitbook/assets/012.png)
+
+####  10.成功升級為金質會員
+
+![](.gitbook/assets/013.png)
+
+* 已驗證為金質會員，姓名下方顯示金色皇冠和金質會員字樣。
+* 多了一個帳號可供登入，仍可使用原本註冊的手機或郵件帳號登入。
 
 ## 方式2.臨櫃作業：透過臨櫃服務人員協助，升級金質會員
 
