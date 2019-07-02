@@ -14,4 +14,5 @@
 * [如何綁定和解除悠遊卡](ru-he-ding-he-jie-chu-you-ka.md)
 * [如何隱藏行動台北卡App指定卡證服務](ru-he-cang-hang-bei-ka-app-zhi-ding-ka-fu.md)
 * [市民e點通申請臺北卡金質會員驗證步驟](shi-minetong-shen-bei-ka-jin-bu.md)
+* [如何註冊和登入組織會員](ru-he-zhu-ce-he-deng-ru-zu-zhi-hui-yuan.md)
 
