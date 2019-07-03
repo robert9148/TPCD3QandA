@@ -3,10 +3,9 @@
 * [台北卡快速操作集](README.md)
 * [一般會員v.s.金質會員](yi-ban-v.s.-jin.md)
 * [如何註冊和登入組織會員](ru-he-zhu-ce-he-deng-ru-zu-zhi-hui-yuan.md)
+* [台北卡3.0一般會員申請步驟](bei-ka-3.0-yi-ban-shen-bu.md)
 
 ## 一般會員
-
-* [台北卡3.0一般會員申請步驟](yi-ban-hui-yuan/bei-ka-3.0-yi-ban-shen-bu.md)
 
 ## 金質會員
 
