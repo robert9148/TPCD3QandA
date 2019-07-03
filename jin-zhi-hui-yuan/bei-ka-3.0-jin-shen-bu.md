@@ -10,7 +10,7 @@
 
 ### 2. 點擊\[金質會員註冊\]選擇成為金質會員 <a id="2-yi-ban-cheng-yi-ban"></a>
 
-![&#x9078;&#x64C7;&#x91D1;&#x8CEA;&#x6703;&#x54E1;&#x8A3B;&#x518A;](.gitbook/assets/zhu-ce-hui-yuan-goldenselect.png)
+![&#x9078;&#x64C7;&#x91D1;&#x8CEA;&#x6703;&#x54E1;&#x8A3B;&#x518A;](../.gitbook/assets/zhu-ce-hui-yuan-goldenselect.png)
 
 ### 3.會員註冊頁面，請在此詳閱個資使用相關內容，打勾後按\[下一步\] <a id="3-yi-ban-mian-zai-ci-shi-yong-xiang-rong-da-gou-an-xia-yi-bu"></a>
 
@@ -32,7 +32,7 @@
 
 ### ​7.請填寫您的基本資料，如果您曾為網路市民會員，請在此按\[取回網路市民資料\] 。以下的案例不從網路市民帶入資料。 <a id="7-tian-nin-de-ji-ben-liao-ru-guo-nin-ceng-lu-shi-min-zai-ci-an-yi-lu-shi-min-liao-ruo-nin-you-facebookgoogle-or-msn-de-ye-ke-yi-zai-ci-ru-liao-yi-xia-de-an-li-bu-lu-shi-min-huo-qi-ta-she-qun-ru-liao"></a>
 
-![](.gitbook/assets/wang-lu-shi-min-qu-hui-shang-ban-bu%20%281%29.png)
+![](../.gitbook/assets/wang-lu-shi-min-qu-hui-shang-ban-bu%20%281%29.png)
 
 ### 8.依據提示的規則設定密碼後按註冊。 <a id="8-yi-ti-shi-de-ding-mi-an"></a>
 
@@ -40,69 +40,69 @@
 
 ### 9.註冊完成後您可以按\[是\]在此繼續進行金質會員認證，或\[否\]直接進入到台北卡網站。在此請選擇\[是\]以繼續進行金質會員認證。 <a id="9-wan-cheng-nin-ke-yi-an-shi-zai-ci-hang-jin-huo-fou-zhi-jie-ru-dao-bei-ka-zhan"></a>
 
-![](.gitbook/assets/2018-04-26_101016%20%281%29.png)
+![](../.gitbook/assets/2018-04-26_101016%20%281%29.png)
 
 ### 10.請依照說明下載安控元件。
 
 ※目前只限使用Windows7以上版本 IE或Chrome瀏覽器進行安控元件下載和使用。
 
-![](.gitbook/assets/2018-04-26_101131.png)
+![](../.gitbook/assets/2018-04-26_101131.png)
 
 ### 11.點擊已下載的安控元件安裝執行檔。
 
-![&#x5B89;&#x63A7;&#x5143;&#x4EF6;&#x57F7;&#x884C;&#x6A94; ](.gitbook/assets/2018-04-26_101211.png)
+![&#x5B89;&#x63A7;&#x5143;&#x4EF6;&#x57F7;&#x884C;&#x6A94; ](../.gitbook/assets/2018-04-26_101211.png)
 
 ### 12.執行檔安裝時，會跳出數個警告訊息，請按\[執行\] 、\[確認\]或\[是\]以繼續下一步。
 
-![](.gitbook/assets/2018-04-26_101241.png)
+![](../.gitbook/assets/2018-04-26_101241.png)
 
 ### 13.請按下一步以繼續。
 
-![](.gitbook/assets/2018-04-26_101313.png)
+![](../.gitbook/assets/2018-04-26_101313.png)
 
 ### 14.若您接受授權協議便請按\[下一步\]以繼續安裝。
 
-![](.gitbook/assets/2018-04-26_101336.png)
+![](../.gitbook/assets/2018-04-26_101336.png)
 
 ### 15.選擇安裝目標資料夾，若無特殊要求，這邊不需要修改資料夾，直接按\[安裝\]即可。
 
-![&#x5B89;&#x63A7;&#x5143;&#x4EF6;&#x5B89;&#x88DD;](.gitbook/assets/2018-04-26_101354.png)
+![&#x5B89;&#x63A7;&#x5143;&#x4EF6;&#x5B89;&#x88DD;](../.gitbook/assets/2018-04-26_101354.png)
 
 ### 16.安裝完畢，請按\[完成\]以關閉安裝精靈。
 
-![&#x5B8C;&#x6210;&#x5B89;&#x88DD;](.gitbook/assets/2018-04-26_101427.png)
+![&#x5B8C;&#x6210;&#x5B89;&#x88DD;](../.gitbook/assets/2018-04-26_101427.png)
 
 ### 17.關閉安裝精靈後，安控元件會自行啟動於右下角，一開始啟動時為\[Loading\]的狀態。
 
-![Loading](.gitbook/assets/2018-04-26_101528.png)
+![Loading](../.gitbook/assets/2018-04-26_101528.png)
 
 ### 18.右下角的安控元件從\[Loading\]轉成\[Ready\]，此時請按鍵盤上\[F5\]鍵以刷新網頁。
 
-![Ready](.gitbook/assets/2018-04-26_101541.png)
+![Ready](../.gitbook/assets/2018-04-26_101541.png)
 
 ### 19.右下角安控元件的狀態接下來轉為\[Going\]，表示其在運行中。
 
-![Going](.gitbook/assets/2018-04-26_101613.png)
+![Going](../.gitbook/assets/2018-04-26_101613.png)
 
 ### 20.安控元件安裝並啟動成功後，可按下一步至步驟二，使用讀卡機插上自然人憑證且USB插在電腦上\(請確認讀卡機運作正常\)，輸入正確的身份證字號後按橘色鍵\[送出\]。
 
-![](.gitbook/assets/2018-04-26_103141.png)
+![](../.gitbook/assets/2018-04-26_103141.png)
 
 ### 21.若讀卡機以及自然人憑證運作正常，網站上會跳出PINCODE 輸入框，請輸入自然人憑證PINCODE。
 
-![](.gitbook/assets/2018-04-26_103337.png)
+![](../.gitbook/assets/2018-04-26_103337.png)
 
 ### 22.輸入自然人憑證PINCODE後，按\[OK\]即開始實名驗證。
 
-![](.gitbook/assets/2018-04-26_103352.png)
+![](../.gitbook/assets/2018-04-26_103352.png)
 
 ### 23.實名認證成功後，您會得到一組帳號，密碼仍是您原來設的密碼。請牢記您的帳號。您可以在此用手機拍QR Code以下載行動臺北卡APP，或按橘色鍵\[登入台北卡3.0網站\]。
 
-![](.gitbook/assets/2018-04-27_160008.png)
+![](../.gitbook/assets/2018-04-27_160008.png)
 
 ### 24.登入台北卡後，左上角的狀態會改成\[金質會員\]，曾經在台北市各局處申請過的實名卡證服務則會列在右邊頁面。
 
-![](.gitbook/assets/2018-04-27_161133%20%281%29.png)
+![](../.gitbook/assets/2018-04-27_161133%20%281%29.png)
 
 
 
