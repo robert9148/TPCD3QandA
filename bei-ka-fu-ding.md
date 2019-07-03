@@ -13,25 +13,25 @@ description: >-
 
 ### 三、各項服務都是由各機關提供的，可參考各卡證服務的申請說明進行申請，未開通的服務皆是以灰色顯示卡面。以『臺北市立圖書館借閱服務』為例，尚未綁定為灰色圖片。
 
-![&#x5716;&#x66F8;&#x501F;&#x95B1;&#x670D;&#x52D9;&#x5C1A;&#x672A;&#x958B;&#x901A;](../.gitbook/assets/ka-zheng-fu-wu-wei-kai-tong.png)
+![&#x5716;&#x66F8;&#x501F;&#x95B1;&#x670D;&#x52D9;&#x5C1A;&#x672A;&#x958B;&#x901A;](.gitbook/assets/ka-zheng-fu-wu-wei-kai-tong.png)
 
 ### 四、要申請時，點選『臺北市立圖書館借閱服務』圖片，選擇如何申請的頁面，依據申請方式說明進行申請。
 
-![&#x5982;&#x4F55;&#x7533;&#x8ACB;](../.gitbook/assets/tu-shu-fu-wu-shen-qing-ban-fa.png)
+![&#x5982;&#x4F55;&#x7533;&#x8ACB;](.gitbook/assets/tu-shu-fu-wu-shen-qing-ban-fa.png)
 
 ### 五、申請完成後，臺北市立圖書館會將資料傳到臺北卡3.0，就會綁定服務，圖片顏色變成彩色，且出現綠色勾選符號，且行動臺北卡App也會顯示這張卡片。
 
-![&#x5716;&#x66F8;&#x9928;&#x501F;&#x95B1;&#x670D;&#x52D9;&#x5DF2;&#x958B;&#x901A;](../.gitbook/assets/ka-zheng-fu-wu-yi-kai-tong.png)
+![&#x5716;&#x66F8;&#x9928;&#x501F;&#x95B1;&#x670D;&#x52D9;&#x5DF2;&#x958B;&#x901A;](.gitbook/assets/ka-zheng-fu-wu-yi-kai-tong.png)
 
-![&#x884C;&#x52D5;&#x81FA;&#x5317;&#x5361;&#x986F;&#x793A;&#x5716;&#x66F8;&#x501F;&#x95B1;&#x670D;&#x52D9;&#x5361;&#x9762;](../.gitbook/assets/tu-shu-jie-yue-fu-wu-kai-qi.png)
+![&#x884C;&#x52D5;&#x81FA;&#x5317;&#x5361;&#x986F;&#x793A;&#x5716;&#x66F8;&#x501F;&#x95B1;&#x670D;&#x52D9;&#x5361;&#x9762;](.gitbook/assets/tu-shu-jie-yue-fu-wu-kai-qi.png)
 
-![&#x5716;&#x66F8;&#x501F;&#x95B1;&#x670D;&#x52D9;&#x5167;&#x5BB9;](../.gitbook/assets/tu-shu-jie-yue-fu-wu-ka-pian-nei-rong.png)
+![&#x5716;&#x66F8;&#x501F;&#x95B1;&#x670D;&#x52D9;&#x5167;&#x5BB9;](.gitbook/assets/tu-shu-jie-yue-fu-wu-ka-pian-nei-rong.png)
 
 ### 六、若服務僅想在網頁上顯示，不在行動台北卡App上顯示，可在卡片下方的開關設為Off，行動台北卡就不顯示服務卡面
 
-![&#x670D;&#x52D9;&#x95DC;&#x9589;\(Off\)](../.gitbook/assets/guan-bi-fu-wu.png)
+![&#x670D;&#x52D9;&#x95DC;&#x9589;\(Off\)](.gitbook/assets/guan-bi-fu-wu.png)
 
-![&#x884C;&#x52D5;&#x81FA;&#x5317;&#x5361;&#x4E0D;&#x986F;&#x793A;&#x5716;&#x66F8;&#x501F;&#x95B1;&#x670D;&#x52D9;&#x5361;&#x9762;](../.gitbook/assets/tu-shu-jie-yue-fu-wu-guan-bi%20%281%29.png)
+![&#x884C;&#x52D5;&#x81FA;&#x5317;&#x5361;&#x4E0D;&#x986F;&#x793A;&#x5716;&#x66F8;&#x501F;&#x95B1;&#x670D;&#x52D9;&#x5361;&#x9762;](.gitbook/assets/tu-shu-jie-yue-fu-wu-guan-bi%20%281%29.png)
 
   
 

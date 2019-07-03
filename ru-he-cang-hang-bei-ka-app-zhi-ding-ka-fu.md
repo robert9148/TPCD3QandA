@@ -8,11 +8,11 @@ description: '金質會員若認為行動臺北卡App功能中的卡證服務清
 
 ## 多卡合一卡證 下方的顯示在「行動台北卡」將開關設定為OFF。
 
-![&#x65BC;&#x591A;&#x5361;&#x5408;&#x4E00;&#x65B9;&#x5DF2;&#x958B;&#x901A;&#x7684;&#x5361;&#x8B49;&#x670D;&#x52D9;](../.gitbook/assets/web_hidden01.png)
+![&#x65BC;&#x591A;&#x5361;&#x5408;&#x4E00;&#x65B9;&#x5DF2;&#x958B;&#x901A;&#x7684;&#x5361;&#x8B49;&#x670D;&#x52D9;](.gitbook/assets/web_hidden01.png)
 
-![&#x9EDE;&#x64CA;&#x6309;&#x9215;&#x5F8C;&#x6703;&#x8B8A;&#x66F4;&#x70BA;OFF](../.gitbook/assets/web_hidden02.png)
+![&#x9EDE;&#x64CA;&#x6309;&#x9215;&#x5F8C;&#x6703;&#x8B8A;&#x66F4;&#x70BA;OFF](.gitbook/assets/web_hidden02.png)
 
 ## 行動台北卡應用程式中的\[台北卡\]功能中, 將會隱藏指定卡證服務資訊。
 
-![&#x6307;&#x5B9A;&#x7684;&#x5361;&#x8B49;&#x670D;&#x52D9;&#x96B1;&#x85CF;&#x4E0D;&#x986F;&#x793A;](../.gitbook/assets/app_512.png)
+![&#x6307;&#x5B9A;&#x7684;&#x5361;&#x8B49;&#x670D;&#x52D9;&#x96B1;&#x85CF;&#x4E0D;&#x986F;&#x793A;](.gitbook/assets/app_512.png)
 
