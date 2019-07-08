@@ -12,7 +12,7 @@
   * [MAC安控元件安裝](tai-bei-ka-3.0-jin-zhi-hui-yuan/mac-an-kong-yuan-jian-an-zhuang.md)
 * [組織會員](tai-bei-ka-3.0-zu-zhi-hui-yuan/README.md)
   * [如何註冊和登入組織會員](tai-bei-ka-3.0-zu-zhi-hui-yuan/ru-he-zhu-ce-he-deng-ru-zu-zhi-hui-yuan.md)
-* [使用說明](shi-yong-shui-ming/README.md)
+* [操作說明](shi-yong-shui-ming/README.md)
   * [會員修改個人資料](shi-yong-shui-ming/bei-ka-3.0-liao-huo-chu.md)
   * [忘記密碼怎麼辦](shi-yong-shui-ming/wang-mi.md)
   * [台北卡3.0會員服務綁定方式與步驟](shi-yong-shui-ming/bei-ka-fu-ding.md)
