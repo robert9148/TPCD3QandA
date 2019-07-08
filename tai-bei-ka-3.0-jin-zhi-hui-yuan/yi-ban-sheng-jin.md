@@ -27,7 +27,7 @@ description: 台北卡3.0一般會員升級金質會員步驟，有下列幾種�
 
 #### 3.下載安控元件
 
-※若您為MAC使用者，請參考 MAC安控元件安裝
+※若您為MAC使用者，請參考 [MAC安控元件安裝](https://tpcdservice.gitbook.io/tpcdcardqa/tai-bei-ka-3.0-jin-zhi-hui-yuan/mac-an-kong-yuan-jian-an-zhuang)
 
 ![&#x4E0B;&#x8F09;&#x5B89;&#x63A7;&#x5143;&#x4EF6;](../.gitbook/assets/sheng-ji-jin-zhi-hui-yuan-an-kong-yuan-jian-xia-zai-1%20%281%29.png)
 
