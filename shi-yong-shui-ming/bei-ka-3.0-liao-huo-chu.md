@@ -1,6 +1,6 @@
 # 會員修改個人資料
 
-## 請連結到台北卡3.0網站 [https://id.taipei/tpcd/](https://id.taipei/tpcd/)
+## 請連結到[台北卡網站](https://id.taipei/tpcd)
 
 ![&#x4FEE;&#x6539;&#x500B;&#x4EBA;&#x8CC7;&#x6599;](../.gitbook/assets/2018-04-26_144118.png)
 

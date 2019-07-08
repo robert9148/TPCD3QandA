@@ -6,7 +6,7 @@ description: ※申請人需事先完成台北卡一般會員注冊
 
 ## 1.在電腦上打開瀏覽器，連上台北卡網站
 
-連上台北卡網站\[   [https://id.taipei/tpcd](https://id.taipei/tpcd)   \]    並登入會員， 點選臺北市民e點通
+連上[台北卡網站](https://id.taipei/tpcd)，並登入會員， 點選臺北市民e點通
 
 ![](../.gitbook/assets/1.png)
 
