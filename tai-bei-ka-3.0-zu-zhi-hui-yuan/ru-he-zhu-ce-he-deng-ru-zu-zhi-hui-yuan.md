@@ -77,7 +77,7 @@ description: >-
 
 ### 12.右下角的安控元件從 \[未運行\] 轉成 \[運行中\]，此時請按鍵盤上 \[F5\] 鍵以刷新網頁
 
-![&#x5B89;&#x63A7;&#x5143;&#x4EF6;&#x555F;&#x52D5;](../.gitbook/assets/an-kong-yuan-jian-qi-dong.png)
+![&#x5B89;&#x63A7;&#x5143;&#x4EF6;&#x555F;&#x52D5;](../.gitbook/assets/an-kong-yuan-jian-qi-dong%20%281%29.png)
 
 
 
