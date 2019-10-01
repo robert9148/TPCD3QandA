@@ -8,7 +8,7 @@
   * [台北卡3.0金質會員申請步驟](tai-bei-ka-3.0-jin-zhi-hui-yuan/bei-ka-3.0-jin-shen-bu.md)
   * [一般會員升級金質會員](tai-bei-ka-3.0-jin-zhi-hui-yuan/yi-ban-sheng-jin.md)
   * [台北卡3.0電信實名驗證](tai-bei-ka-3.0-jin-zhi-hui-yuan/bei-ka-3.0-qun-xin.md)
-  * [市民e點通申請臺北卡金質會員驗證步驟](tai-bei-ka-3.0-jin-zhi-hui-yuan/shi-minetong-shen-bei-ka-jin-bu.md)
+  * [線上申請台北通金質會員驗證步驟](tai-bei-ka-3.0-jin-zhi-hui-yuan/shi-minetong-shen-bei-ka-jin-bu.md)
   * [MAC安控元件安裝](tai-bei-ka-3.0-jin-zhi-hui-yuan/mac-an-kong-yuan-jian-an-zhuang.md)
 * [組織會員](tai-bei-ka-3.0-zu-zhi-hui-yuan/README.md)
   * [如何註冊和登入組織會員](tai-bei-ka-3.0-zu-zhi-hui-yuan/ru-he-zhu-ce-he-deng-ru-zu-zhi-hui-yuan.md)
