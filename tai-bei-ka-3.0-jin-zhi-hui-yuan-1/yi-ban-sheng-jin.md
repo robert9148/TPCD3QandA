@@ -102,7 +102,7 @@ description: 台北卡3.0一般會員升級金質會員步驟，有下列幾種�
 
 使用者需要準備身分證明文件，依據網頁指示填寫相關資料，並將身分資料上傳，由人工進行審核，敬請耐心等待申請完成。
 
-※詳細步驟請參考 [市民e點通申請臺北卡金質會員驗證步驟](https://tpcdservice.gitbook.io/tpcdcardqa/tai-bei-ka-3.0-jin-zhi-hui-yuan/shi-minetong-shen-bei-ka-jin-bu)
+※詳細步驟請參考 [線上申請台北通金質會員驗證步驟](https://app.gitbook.com/@tpcdservice/s/tpcdcardqa/~/edit/drafts/-Lq46jXib-2FiEO0X0BK/tai-bei-ka-3.0-jin-zhi-hui-yuan/shi-minetong-shen-bei-ka-jin-bu)
 
 {% page-ref page="bei-ka-3.0-qun-xin.md" %}
 
